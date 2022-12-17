@@ -14,6 +14,8 @@ build
 coverage
 .vscode/
 eslint_report.json
+public/bundle.js
+bundle.js.LICENSE.txt
 
 # compiled
 src/**/*.js
